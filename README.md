@@ -14,44 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Github Profile Activity Generator</title>
-  <link rel="stylesheet" href="./css/app.css">
-</head>
-
-<body class="light-theme">
-  <header id="header">
-    <h1 id="head-title">
-      Generate custom
-      <br />
-      Profile activity
-      <br />
-      For your profile readme
-    </h1>
-    <ul id="how-to-use">
-      <li>Click on the squares to darken the colors</li>
-      <li>Shift+Click on the squares to lighten the colors</li>
-      <li>Hold the Ctrl (Cmd for Macs) key and hover on the squares to darken the colors</li>
-      <li>Hold the Ctrl+Shift keys (Cmd+Shift for Macs) and hover on the squares to lighten the colors</li>
-    </ul>
-  </header>
-
-  <svg width="828" height="128" id="profile-activity"></svg>
-
-  <div id="action-buttons">
-    <button type="button" id="create-image-btn" class="action-button">Download Image</button>
-    <button type="button" id="switch-theme-btn" class="action-button light-theme-btn">Switch Theme</button>
-    <button type="button" id="reset-activity-btn" class="action-button">
-      <svg height="512" viewBox="0 0 16 16" width="512" xmlns="http://www.w3.org/2000/svg" fill="#fff"><path d="m12 8c0-1.6543-1.3457-3-3-3h-1.36731l.359497-2.87598c.0053711-.0410156.0078125-.0825195.0078125-.124023 0-1.10303-.896973-2-2-2-1.10303 0-2 .896973-2 2 0 .0415039.0024414.0830078.0078125.124023l.359497 2.87598h-1.36731c-1.6543 0-3 1.3457-3 3v1h12v-1zm-6-6.5c.276123 0 .5.223816.5.5 0 .276123-.223877.5-.5.5s-.5-.223877-.5-.5c0-.276184.223877-.5.5-.5z" transform="translate(2)"/><path d="m12.1324 0h-10.2648c-.44165 3.49347-1.86761 6-1.86761 6h1.96191c.82373-.945068 1.53809-2.07788 1.53809-2.5.311401.934204.428711 1.86768.473022 2.43951 1.02301-1.27966 1.927-2.86108 1.927-3.43951.420288 1.401.544067 2.78644.581787 3.5h1.5412c.0402221-.563965.153137-1.52844.47699-2.5 0 .422119.714355 1.55493 1.53809 2.5h3.96191s-1.42596-2.50653-1.86761-6z" transform="translate(1 10)"/></svg>
-    </button>
-  </div>
-
-  <script src="./js/generator.js"></script>
-</body>
-
-</html>
+<div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Introduce </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요 금융권 회사 취직을 위해 성장중인 주니어 개발자 박성빈입니다. </div> 
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
+          <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+          <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+          <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+          <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+          <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+          </div>
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=sungbeen11&bg_color=180,db9214,00000000&title_color=000000&text_color=000000"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungbeen11&layout=compact&bg_color=180,db9214,00000000&title_color=000000&text_color=000000"
+           /> </div> 
+    </div>
+    
