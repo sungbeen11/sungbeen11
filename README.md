@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungbeen11)](https://github.com/sungbeen11/github-readme-stats)
-
-
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Introduce </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요 금융권 회사 취직을 위해 성장중인 주니어 개발자 박성빈입니다. </div> 
