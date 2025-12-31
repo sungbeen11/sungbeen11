@@ -41,4 +41,4 @@ Here are some ideas to get you started:
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>   
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sungbeen11)](https://git.io/streak-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sungbeen11)](https://github.com/sungbeen11/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungbeen11)](https://github.com/sungbeen11/github-readme-stats)
