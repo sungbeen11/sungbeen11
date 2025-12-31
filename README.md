@@ -38,7 +38,6 @@ Here are some ideas to get you started:
           </div>
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungbeen11&show_icons=true&theme=radical)    
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>   
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sungbeen11)](https://git.io/streak-stats)
