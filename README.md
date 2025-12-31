@@ -16,6 +16,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 📜 Certifications
+- **SQLD**
+- **ADsP**
+- **DAsP**
+
+
+### 🏆 Awards
+- **세종대학교 컴퓨터공학과 학술제 최우수상** - 세종대학교 ( _2025년 2학기_ )
+- **세종대학교 전공심화공동체 우수상** - 세종대학교 ( _2025년 2학기_ )
+
+
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Introduce </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요 금융권 회사 취직을 위해 성장중인 주니어 개발자 박성빈입니다. </div> 
@@ -42,12 +54,4 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sungbeen11)](https://git.io/streak-stats)
 
-### 📜 Certifications
-- **SQLD**
-- **ADsP**
-- **DAsP**
 
-
-### 🏆 Awards
-- **세종대학교 컴퓨터공학과 학술제 최우수상** - 동국대학교 ( _2025년 2학기_ )
-- **세종대학교 전공심화공동체 우수상** - 세종대학교 ( _2025년 2학기_ )
