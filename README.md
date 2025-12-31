@@ -41,4 +41,13 @@ Here are some ideas to get you started:
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>   
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sungbeen11)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungbeen11)](https://github.com/sungbeen11/github-readme-stats)
+
+### 📜 Certifications
+- **SQLD**
+- **ADsP**
+- **DAsP**
+
+
+### 🏆 Awards
+- **세종대학교 컴퓨터공학과 학술제 최우수상** - 동국대학교 ( _2025년 2학기_ )
+- **세종대학교 전공심화공동체 우수상** - 세종대학교 ( _2025년 2학기_ )
