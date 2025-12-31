@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 5 . [laravel github profile view counter](https://github.com/caneco/laravel-github-profile-view-counter)
+This package will allows you to track Github profile views and display them in your profile readme, for free.
+
+📍 For example :
+<p align="center">
+  <img width=400 src="https://raw.githubusercontent.com/caneco/laravel-github-profile-view-counter/master/art/socialcard.png" alt="laravel github profile view counter">
+</p>
