@@ -17,15 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 📜 Certifications
-- **SQLD**
-- **ADsP**
-- **DAsP**
-
-
-### 🏆 Awards
-- **세종대학교 컴퓨터공학과 학술제 최우수상** - 세종대학교 ( _2025년 2학기_ )
-- **세종대학교 전공심화공동체 우수상** - 세종대학교 ( _2025년 2학기_ )
 
 
 <div style="text-align: left;"> 
@@ -51,6 +42,17 @@ Here are some ideas to get you started:
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>   
+
+        
+### 📜 Certifications
+- **SQLD**
+- **ADsP**
+- **DAsP**
+
+
+### 🏆 Awards
+- **세종대학교 컴퓨터공학과 학술제 최우수상** - 세종대학교 ( _2025년 2학기_ )
+- **세종대학교 전공심화공동체 우수상** - 세종대학교 ( _2025년 2학기_ )
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sungbeen11)](https://git.io/streak-stats)
 
