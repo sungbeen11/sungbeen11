@@ -33,7 +33,6 @@ Here are some ideas to get you started:
           <br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
           </div>
     </div>
     <div style="text-align: left;"> 
@@ -41,4 +40,4 @@ Here are some ideas to get you started:
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungbeen11&layout=compact&bg_color=180,db9214,00000000&title_color=000000&text_color=000000"
            /> </div> 
     </div>
-    
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungbeen11&show_icons=true&theme=radical)    
