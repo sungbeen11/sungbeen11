@@ -40,4 +40,4 @@ Here are some ideas to get you started:
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungbeen11&layout=compact&bg_color=180,db9214,00000000&title_color=000000&text_color=000000"
            /> </div> 
     </div>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungbeen11&show_icons=true&theme=radical)    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungbeen11&show_icons=true&theme=radical)    
