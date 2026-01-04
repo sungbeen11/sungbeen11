@@ -21,7 +21,7 @@
 ## 🚀 Experience & Projects
 
 ### 🎓 Education & Activities
-| 기간 | 소속 및 활동 | 비고 |
+| Date | Education & Activities | Description |
 |:--- |:--- |:--- |
 | 2020.02 - 2026.02 | **세종대학교 (Sejong University)** | 컴퓨터공학 전공 |
 | 2024.09 - 2025.01 | **ESME Sudria (France)** | 교환학생 (Computer Engineering) |
@@ -30,11 +30,11 @@
 <br>
 
 ### 💻 Development Projects
-| 기간 | 소속 및 활동 |
-|:--- |:--- |
-| 2025.10 - **Present** | **추억 지도 공유 모바일 앱** |
-| 2025.10 - 2025.12 | **PAIS, 개인 맞춤형 AI 비서** |
-| 2025.03 - 2025.06 | **문서 보안등급 자동분류 AI** |
+| Date | Projects | Description |
+|:--- |:--- |:--- |
+| 2025.10 - **Present** | **추억 지도 공유 모바일 앱** | 친구 및 연인들과 추억을 저장하는 지도 모바일 앱 |
+| 2025.10 - 2025.12 | **PAIS, 개인 맞춤형 AI 비서** | Local PC, Google Drive등 다양한 클라우드에서 파일을 찾아주는 AI 비서 |
+| 2025.03 - 2025.06 | **문서 보안등급 자동분류 AI** | 보안 키워드를 설정하여 문서의 보안등급을 분류해주는 AI |
 
 ### 📜 Certifications
 - **SQLD**
