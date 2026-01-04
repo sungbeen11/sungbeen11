@@ -1,50 +1,43 @@
-## Hi there 👋
+# Hi there, I'm Sungbeen 👋
 
-<!--
-**sungbeen11/sungbeen11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+### 🎯 Objective
+**"안정적인 시스템과 데이터 정합성을 최우선으로 생각하는 백엔드 개발자"**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠 예외 케이스를 놓치지 않는 견고한 백엔드 설계를 지향합니다.
+- 💾 데이터 무결성과 정합성을 유지하기 위한 최선의 아키텍처를 고민합니다.
+- 📈 신뢰할 수 있는 서비스 운영을 위해 지속적으로 학습하고 기록합니다.
+
+### 🛠️ Tech Stack:
+
+- Programming language :
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=flat&logo=c&logoColor=white)
+- Framework : ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
+- DB : ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+- Communication : ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white)
 
 
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Introduce </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요 금융권 회사 취직을 위해 성장중인 주니어 개발자 박성빈입니다. </div> 
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: ; text-align: left;" "text-align: left;">
-          <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-          <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-          <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-          <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-          </div>
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>   
+## 🚀 Experience & Projects
 
-        
+### Sejong University Computer Engineering
+*2020.02 - 2026.02*
+### École Spéciale de Mécanique et d'Électricité, ESME sudria
+*2024.09 - 2025.01*
+### 신한투자증권 프로디지털아카데미 7기
+*2025.12 - NOW*
+
+### 문서 보안등급 자동분류 AI | 팀 프로젝트
+*2025.03 - 2025.06*
+### 추억 지도 공유 모바일 앱 | 팀 프로젝트
+*2025.10 - NOW*
+### PAIS,개인 맞춤형 AI 비서 | 팀 프로젝트
+*2025.10 - 2025.12*
+
 ### 📜 Certifications
 - **SQLD**
 - **ADsP**
 - **DAsP**
-
 
 ### 🏆 Awards
 - **세종대학교 컴퓨터공학과 학술제 최우수상** - 세종대학교 ( _2025년 2학기_ )
