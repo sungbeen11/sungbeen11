@@ -17,6 +17,8 @@
 - DB : ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 - Communication : ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white)
 
+## 🔖 Final Vocabulary
+- **Something New**
 
 ## 🚀 Experience & Projects
 
@@ -33,6 +35,11 @@
 | 2025.10 - **Present** | **추억 공유 지도 모바일 앱** | 친구 및 연인들과 추억을 저장하는 지도 모바일 앱 |
 | 2025.10 - 2025.12 | **PAIS, 개인 맞춤형 AI 비서** | 다양한 클라우드에서 파일을 찾아주는 AI 비서 |
 | 2025.03 - 2025.06 | **문서 보안등급 자동분류 AI** | 보안 기준에 맞춰 레벨을 설정하는 AI |
+
+### 🏃‍♂️ Hobbies & Interests
+- ![Travel](https://img.shields.io/badge/-Travel-00BCD4?style=flat&logo=tripadvisor&logoColor=white) **여행** : FR
+- ![Soccer](https://img.shields.io/badge/-Soccer-32CD32?style=flat&logo=livechat&logoColor=white) **축구** : 
+- ![Gaming](https://img.shields.io/badge/-Gaming-607D8B?style=flat&logo=nintendo-switch&logoColor=white) **게임** : 
 
 ### 📜 Certifications
 - **SQLD**
