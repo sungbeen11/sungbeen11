@@ -37,9 +37,9 @@
 | 2025.03 - 2025.06 | **문서 보안등급 자동분류 AI** | 보안 기준에 맞춰 레벨을 설정하는 AI |
 
 ### 🏃‍♂️ Hobbies & Interests
-- ![Travel](https://img.shields.io/badge/-Travel-00BCD4?style=flat&logo=tripadvisor&logoColor=white) **여행** : FR
-- ![Soccer](https://img.shields.io/badge/-Soccer-32CD32?style=flat&logo=livechat&logoColor=white) **축구** : 
-- ![Gaming](https://img.shields.io/badge/-Gaming-607D8B?style=flat&logo=nintendo-switch&logoColor=white) **게임** : 
+![Travel](https://img.shields.io/badge/-Travel-00BCD4?style=flat&logo=tripadvisor&logoColor=white)
+![Soccer](https://img.shields.io/badge/-Soccer-32CD32?style=flat&logo=sports.dot.com&logoColor=white)
+![Gaming](https://img.shields.io/badge/-Gaming-181717?style=flat&logo=playstation&logoColor=white)
 
 ### 📜 Certifications
 - **SQLD**
