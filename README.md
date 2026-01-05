@@ -24,7 +24,7 @@
 | Date | Education & Activities | Description |
 |:--- |:--- |:--- |
 | 2020.02 - 2026.02 | **세종대학교 (Sejong University)** | 컴퓨터공학 전공 |
-| 2024.09 - 2025.01 | **ESME Sudria (France)** | 교환학생 (Computer Engineering) |
+| 2024.09 - 2025.01 | **École spéciale de mécanique et d'électricité** | 교환학생 |
 | 2025.12 - **Present** | **신한투자증권 프로디지털아카데미 7기** | 풀스택 개발 및 금융 도메인 학습 |
 
 ### 💻 Development Projects
