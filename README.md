@@ -36,7 +36,7 @@
 | 2025.03 - 2025.06 | **문서 보안등급 자동분류 AI** | 보안 기준에 맞춰 레벨을 설정하는 AI |
 
 ### 🏃‍♂️ Hobbies
-* **✈️ 여행** <img src="https://flagcdn.com/w40/kr.png" width="25">
+* **✈️ 여행** <img src="https://flagcdn.com/w40/fr.png" width="22"> <img src="https://flagcdn.com/w40/be.png" width="22"> <img src="https://flagcdn.com/w40/nl.png" width="22"> <img src="https://flagcdn.com/w40/gb.png" width="22"> <img src="https://flagcdn.com/w40/it.png" width="22"> <img src="https://flagcdn.com/w40/es.png" width="22"> <img src="https://flagcdn.com/w40/pt.png" width="22"> <img src="https://flagcdn.com/w40/ma.png" width="22"> <img src="https://flagcdn.com/w40/mc.png" width="22"> <img src="https://flagcdn.com/w40/lu.png" width="22"> <img src="https://flagcdn.com/w40/ch.png" width="22"> <img src="https://flagcdn.com/w40/cz.png" width="22"> <img src="https://flagcdn.com/w40/hu.png" width="22"> <img src="https://flagcdn.com/w40/at.png" width="22"> <img src="https://flagcdn.com/w40/th.png" width="22"> <img src="https://flagcdn.com/w40/vn.png" width="22"> <img src="https://flagcdn.com/w40/cn.png" width="22">
 * **⚽ 축구**
 * **🎮 게임**
 
