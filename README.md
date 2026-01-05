@@ -36,10 +36,14 @@
 | 2025.10 - 2025.12 | **PAIS, 개인 맞춤형 AI 비서** | 다양한 클라우드에서 파일을 찾아주는 AI 비서 |
 | 2025.03 - 2025.06 | **문서 보안등급 자동분류 AI** | 보안 기준에 맞춰 레벨을 설정하는 AI |
 
-### 🏃‍♂️ Hobbies & Interests
-✈️ 여행 | 🇰🇷 🇫🇷 🇬🇧 🇪🇸 🇮🇹 🇨🇭 🇩🇪 🇦🇹 🇨🇿
-⚽ 축구
-🎮 게임
+### 🏃‍♂️ Hobbies
+* **✈️ 여행**
+  ![South Korea](https://img.shields.io/badge/Korea-🇰🇷-white) ![France](https://img.shields.io/badge/France-🇫🇷-blue) ![UK](https://img.shields.io/badge/UK-🇬🇧-red) ![Spain](https://img.shields.io/badge/Spain-🇪🇸-yellow) ![Italy](https://img.shields.io/badge/Italy-🇮🇹-green)
+  > 새로운 세상을 경험하며 시야를 넓히는 것을 좋아합니다.
+* **⚽ 축구**
+  > 팀워크를 통해 승리를 만들어가는 과정에 열광합니다.
+* **🎮 게임**
+  > 데이터와 전략을 분석하여 효율적으로 문제를 해결하는 것을 즐깁니다.
 
 ### 📜 Certifications
 - **SQLD**
