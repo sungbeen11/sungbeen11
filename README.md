@@ -17,8 +17,7 @@
 - DB : ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 - Communication : ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white)
 
-## 🔖 Final Vocabulary
-- **Something New**
+## 🔖 Final Vocabulary :  **Something New**
 
 ## 🚀 Experience & Projects
 
@@ -38,12 +37,8 @@
 
 ### 🏃‍♂️ Hobbies
 * **✈️ 여행**
-  ![South Korea](https://img.shields.io/badge/Korea-🇰🇷-white) ![France](https://img.shields.io/badge/France-🇫🇷-blue) ![UK](https://img.shields.io/badge/UK-🇬🇧-red) ![Spain](https://img.shields.io/badge/Spain-🇪🇸-yellow) ![Italy](https://img.shields.io/badge/Italy-🇮🇹-green)
-  > 새로운 세상을 경험하며 시야를 넓히는 것을 좋아합니다.
 * **⚽ 축구**
-  > 팀워크를 통해 승리를 만들어가는 과정에 열광합니다.
 * **🎮 게임**
-  > 데이터와 전략을 분석하여 효율적으로 문제를 해결하는 것을 즐깁니다.
 
 ### 📜 Certifications
 - **SQLD**
