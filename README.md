@@ -46,6 +46,7 @@
 
 ### 🏃‍♂️ Hobbies
 * **⚽ 축구**
+* **🏃🏓🥋🏀⚾ 운동**
 * **🎮 게임**
 * **✈️ 여행** <img src="https://flagcdn.com/w40/fr.png" width="22"> <img src="https://flagcdn.com/w40/be.png" width="22"> <img src="https://flagcdn.com/w40/nl.png" width="22"> <img src="https://flagcdn.com/w40/gb.png" width="22"> <img src="https://flagcdn.com/w40/de.png" width="22"> <img src="https://flagcdn.com/w40/it.png" width="22"> <img src="https://flagcdn.com/w40/es.png" width="22"> <img src="https://flagcdn.com/w40/pt.png" width="22"> <img src="https://flagcdn.com/w40/ma.png" width="22"> <img src="https://flagcdn.com/w40/mc.png" width="22"> <img src="https://flagcdn.com/w40/lu.png" width="22"> <img src="https://flagcdn.com/w40/ch.png" width="22"> <img src="https://flagcdn.com/w40/cz.png" width="22"> <img src="https://flagcdn.com/w40/hu.png" width="22"> <img src="https://flagcdn.com/w40/at.png" width="22"> <img src="https://flagcdn.com/w40/th.png" width="22"> <img src="https://flagcdn.com/w40/vn.png" width="22"> <img src="https://flagcdn.com/w40/cn.png" width="22">
 ![옥토버페스트](https://github.com/user-attachments/assets/988fd784-fcbb-4548-8fe6-f29d46b2a4d9)
