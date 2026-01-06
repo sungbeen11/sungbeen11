@@ -58,7 +58,5 @@
 <img src="https://github.com/user-attachments/assets/9405f161-d825-4f61-9543-369e033d0f9e" width="91%" />
 
 
-<img width="1170" height="665" alt="image" src="https://github.com/user-attachments/assets/9405f161-d825-4f61-9543-369e033d0f9e" />
-
 
 
