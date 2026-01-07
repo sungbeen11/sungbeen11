@@ -45,15 +45,6 @@
 - **세종대학교 컴퓨터공학과 학술제 최우수상** - 세종대학교 ( _2025년 2학기_ )
 - **세종대학교 전공심화공동체 우수상** - 세종대학교 ( _2025년 2학기_ )
 
-### 🏃‍♂️ Hobbies
-* **⚽ 축구**
-* **🏃🏓🥋🏀⚾ 운동**
-* **🎮 게임**
-* **✈️ 여행** <img src="https://flagcdn.com/w40/fr.png" width="22"> <img src="https://flagcdn.com/w40/be.png" width="22"> <img src="https://flagcdn.com/w40/nl.png" width="22"> <img src="https://flagcdn.com/w40/gb.png" width="22"> <img src="https://flagcdn.com/w40/de.png" width="22"> <img src="https://flagcdn.com/w40/it.png" width="22"> <img src="https://flagcdn.com/w40/es.png" width="22"> <img src="https://flagcdn.com/w40/pt.png" width="22"> <img src="https://flagcdn.com/w40/ma.png" width="22"> <img src="https://flagcdn.com/w40/mc.png" width="22"> <img src="https://flagcdn.com/w40/lu.png" width="22"> <img src="https://flagcdn.com/w40/ch.png" width="22"> <img src="https://flagcdn.com/w40/cz.png" width="22"> <img src="https://flagcdn.com/w40/hu.png" width="22"> <img src="https://flagcdn.com/w40/at.png" width="22"> <img src="https://flagcdn.com/w40/th.png" width="22"> <img src="https://flagcdn.com/w40/vn.png" width="22"> <img src="https://flagcdn.com/w40/cn.png" width="22">
-<p align="left"> <img src="https://github.com/user-attachments/assets/bf81e9ff-5c2f-4e39-a6e1-3699360fbf42" width="32%" title="모로코 사막"> <img src="https://github.com/user-attachments/assets/2105c8fe-13cc-429b-8777-6b9f1caea281" width="32%" title="패션위크"> <img src="https://github.com/user-attachments/assets/988fd784-fcbb-4548-8fe6-f29d46b2a4d9" width="32%" title="옥토버페스트"> </p>
-
-<p align="left"> <img src="https://github.com/user-attachments/assets/7e7cb942-0391-4676-a875-658e7155ac0d" width="48.5%" title="프랑스 롤드컵"> <img src="https://github.com/user-attachments/assets/9405f161-d825-4f61-9543-369e033d0f9e" width="48.5%" title="추억 사진"> </p>/>
-
 
 
 
